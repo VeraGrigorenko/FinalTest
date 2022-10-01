@@ -1,0 +1,15 @@
+C:\Users\Госпожа\Desktop\FinalTask\TaskResult\bin\Debug\net6.0\TaskResult.exe
+C:\Users\Госпожа\Desktop\FinalTask\TaskResult\bin\Debug\net6.0\TaskResult.deps.json
+C:\Users\Госпожа\Desktop\FinalTask\TaskResult\bin\Debug\net6.0\TaskResult.runtimeconfig.json
+C:\Users\Госпожа\Desktop\FinalTask\TaskResult\bin\Debug\net6.0\TaskResult.dll
+C:\Users\Госпожа\Desktop\FinalTask\TaskResult\bin\Debug\net6.0\TaskResult.pdb
+C:\Users\Госпожа\Desktop\FinalTask\TaskResult\obj\Debug\net6.0\TaskResult.csproj.AssemblyReference.cache
+C:\Users\Госпожа\Desktop\FinalTask\TaskResult\obj\Debug\net6.0\TaskResult.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Госпожа\Desktop\FinalTask\TaskResult\obj\Debug\net6.0\TaskResult.AssemblyInfoInputs.cache
+C:\Users\Госпожа\Desktop\FinalTask\TaskResult\obj\Debug\net6.0\TaskResult.AssemblyInfo.cs
+C:\Users\Госпожа\Desktop\FinalTask\TaskResult\obj\Debug\net6.0\TaskResult.csproj.CoreCompileInputs.cache
+C:\Users\Госпожа\Desktop\FinalTask\TaskResult\obj\Debug\net6.0\TaskResult.dll
+C:\Users\Госпожа\Desktop\FinalTask\TaskResult\obj\Debug\net6.0\refint\TaskResult.dll
+C:\Users\Госпожа\Desktop\FinalTask\TaskResult\obj\Debug\net6.0\TaskResult.pdb
+C:\Users\Госпожа\Desktop\FinalTask\TaskResult\obj\Debug\net6.0\TaskResult.genruntimeconfig.cache
+C:\Users\Госпожа\Desktop\FinalTask\TaskResult\obj\Debug\net6.0\ref\TaskResult.dll
